@@ -1,14 +1,6 @@
-//PThread referenced from https://computing.llnl.gov/tutorials/pthreads/
-//                        and Tutorial #4 from coursys
-//Socket Programming referenced from https://www.cs.rutgers.edu/~pxk/417/notes/sockets/udp.html , 
-//                                   http://beej.us/guide/bgnet/ ,
-//                                   and Tutorial #3 from coursys
-//Implemented with list.h and list.o provided by the instructor
-
-
-#include <stdio.h>           //CMPT 300 Assignment 2
-#include <stdlib.h>          //Yoonhong Lee, 301267876
-#include <pthread.h>         //February 27th, 2020
+#include <stdio.h>           
+#include <stdlib.h>         
+#include <pthread.h>         
 #include <string.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
