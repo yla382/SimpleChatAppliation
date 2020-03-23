@@ -1,4 +1,3 @@
-//list.h created by Yoonhong Lee
 #ifndef LIST_H
 #define LIST_H
 
