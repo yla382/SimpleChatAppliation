@@ -1,4 +1,3 @@
-//list.c created by Yoonhong Lee
 #include <stdio.h>
 #include "list.h"
 
